@@ -1,1 +1,3 @@
-# RecordShop
+# Record Shop Database
+
+The Record Shop database is designed to efficiently manage a hypothetical music store's operations. It encompasses various aspects such as people, vendors, products, and inventory management. Tthe data were created by Team Lead Justin Smith and the tables and their connections were created by the entire team of Justin Smith, Sam Sayeg, Eric Arsenault, and Ethan Weaver. Key lessons from this project included understanding how to model relationships between entities (e.g., customers placing orders, products provided by vendors) in addition to practicing SQL syntax for creating tables, inserting data, and defining constraints to build a robust database.
